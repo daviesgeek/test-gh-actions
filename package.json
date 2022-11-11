@@ -1,0 +1,6 @@
+{
+  "name": "test-gh-actions",
+  "dependencies": {
+    "typescript": "4.8"
+  }
+}
